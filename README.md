@@ -1,2 +1,2 @@
 # jwp-spring-boot
-spring boot를 활용한 다양한 예제 모음
+Spring + Spring Boot 학습을 위한 저장소
